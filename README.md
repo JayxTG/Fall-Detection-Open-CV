@@ -57,7 +57,7 @@ Execute the main script to start the fall detection system:
 **Detecting Falls**
 Run the application, and it will start the webcam feed. The system will detect humans in the frame, draw stick figures around them, and display an alert if a fall is detected.
 
-##Dependencies
+## Dependencies
 - OpenCV
 - NumPy
 
