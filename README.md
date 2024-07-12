@@ -24,11 +24,6 @@ The objective of this project is to create an automated system that can detect f
 - OpenCV
 - NumPy
 
-## 📁 Folder Structure
-
-- `src`: Contains the source code for the project
-- `models`: Pre-trained models and related files
-- `docs`: Project documentation and related materials
 
 ## 🎛️ How to Use
 
